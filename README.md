@@ -1,3 +1,6 @@
 # dolar-bot
 
-comando de incialização: node index.js
+npm init -y
+npm install discord.js axios dotenv
+
+node index.js
